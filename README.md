@@ -14,5 +14,5 @@ most of the errors is going to created by use of old version's Module
 so , Keep Your Modules Upgraded 
 
 Thank You.
-Paet 1 : https://youtu.be/l5crjwlfPAI
+Part 1 : https://youtu.be/l5crjwlfPAI
 Part 2 : https://youtu.be/2ZgIxP71qwo
